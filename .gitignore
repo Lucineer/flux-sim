@@ -1,0 +1,4 @@
+*.o
+flux-sim
+*.exe
+.DS_Store
